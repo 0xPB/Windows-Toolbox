@@ -1,5 +1,4 @@
-
-# 🖥️ Command Line Tool Launcher
+# 🖥️ Windows Toolbox
 
 This Python script allows you to easily launch various Windows system tools such as Command Prompt, Registry Editor, PowerShell, and System Information, all from a simple menu-based interface. 
 
