@@ -26,7 +26,7 @@ This Python script allows you to easily launch various Windows system tools such
 
 ## 💻 Example
 ```bash
-> python tool_launcher.py
+> python main.py
 Choix :
 --------
 Command Prompt (CMD): 0
