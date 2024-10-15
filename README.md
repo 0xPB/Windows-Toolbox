@@ -39,5 +39,5 @@ Votre choix : 0
 ```
 Selecting `0` will launch the Command Prompt.
 
-## 📝 License
-This script is open-source and freely available under the MIT License. Feel free to modify and use it for your own purposes!
+## 📄 License
+This repository is licensed under the GNU General Public License v3.0. You can read more about the terms and conditions here: [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).
